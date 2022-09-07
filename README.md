@@ -9,4 +9,4 @@
     - Run the Script. 
     - Your 10+ POI map link will be in the output_pins.py... copy link and paste into browser. 
 
-- Note: Sometimes small corrections need to bemade on the maps.google.com, be aware. 
+- Note: Sometimes small corrections need to be made on the maps.google.com, be aware. 
